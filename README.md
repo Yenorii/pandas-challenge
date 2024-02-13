@@ -7,19 +7,6 @@ Based on the following analysis of school performance, spending, size, and type,
 These trends underscore the importance of school environment and structure in student academic performance. Charter schools and smaller-sized schools appear to offer conditions that are more favorable for student achievement, highlighting potential areas for policy and investment focus to improve education outcomes for all.
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -69,19 +56,6 @@ These trends underscore the importance of school environment and structure in st
 </div>
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
